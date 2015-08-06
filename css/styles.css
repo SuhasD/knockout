@@ -1,0 +1,16 @@
+body {
+    background-color: #E0E0E0;
+}
+
+#page {
+	margin: 80px 15px 0 15px;
+}
+
+a.logoLink{
+	padding:6px 10px;
+	margin-left:0;
+}
+
+a.logoLink img{
+	max-height:30px;
+}
